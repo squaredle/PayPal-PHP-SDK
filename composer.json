@@ -1,14 +1,18 @@
 {
-    "name": "paypal/rest-api-sdk-php",
-    "description": "PayPal's PHP SDK for REST APIs",
+    "name": "squaredle/paypal-php-sdk",
+    "description": "Fork of PayPal-PHP-SDK to fix deprecation warnings",
     "keywords": ["paypal", "payments", "rest", "sdk"],
     "type": "library",
     "license": "Apache-2.0",
-    "homepage": "http://paypal.github.io/PayPal-PHP-SDK/",
+    "homepage": "https://github.com/squaredle/PayPal-PHP-SDK",
     "authors": [
         {
             "name": "PayPal",
             "homepage": "https://github.com/paypal/rest-api-sdk-php/contributors"
+        },
+        {
+          "name": "Squaredle",
+          "homepage": "https://github.com/squaredle"
         }
     ],
     "require": {
